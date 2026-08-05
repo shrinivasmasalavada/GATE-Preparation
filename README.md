@@ -46,4 +46,93 @@ This repository documents my complete learning journey from the beginning of my 
 
 > **"Small consistent efforts every day lead to big achievements."**
 
-**Status:** 🚀 Preparation in Progress
+**Status:** 🚀 Preparation in Progress 
+
+GATE Preparation ಈಗಷ್ಟೇ ಆರಂಭಿಸುತ್ತಿದ್ದರೆ, ಈ resources ಸಾಕಷ್ಟು ಉತ್ತಮ. ವಿಶೇಷವಾಗಿ **MCA ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ** Computer Science (GATE CSE)ಗಾಗಿ ಇವು ಉಪಯುಕ್ತ.
+
+## 📘 Official Resources
+
+* Indian Institute of Technology Kanpur (Official GATE website)
+* Previous Year Question Papers (PYQs)
+* Official Syllabus
+* Official Mock Test
+
+---
+
+## 📚 Free Notes
+
+* **GeeksforGeeks** – Data Structures, Algorithms, OS, DBMS, CN
+* **TutorialsPoint** – Quick revision
+* **Javatpoint** – CS fundamentals
+* **Neso Academy** – Subject-wise notes and videos
+
+---
+
+## 🎥 YouTube Channels
+
+* Gate Smashers
+* Neso Academy
+* Knowledge Gate
+* Jenny's Lectures CS IT
+* Easy Engineering Classes
+
+---
+
+## 💻 Coding Practice
+
+* LeetCode
+* HackerRank
+* CodeChef
+* GeeksforGeeks Practice
+
+---
+
+## 📖 Best Books
+
+| Subject               | Book                                     |
+| --------------------- | ---------------------------------------- |
+| Data Structures       | Data Structures Using C – Reema Thareja  |
+| Algorithms            | Introduction to Algorithms (CLRS)        |
+| Operating Systems     | Operating System Concepts – Silberschatz |
+| DBMS                  | Database System Concepts – Korth         |
+| Computer Networks     | Computer Networking – Kurose & Ross      |
+| Theory of Computation | Peter Linz                               |
+| Computer Organization | Morris Mano                              |
+| Discrete Mathematics  | Kenneth Rosen                            |
+
+---
+
+## 📝 PYQ Practice
+
+* Solve **last 15 years** GATE PYQs.
+* Revise incorrect questions every week.
+* Maintain an **error notebook**.
+
+---
+
+## 📂 GitHub Repository Structure
+
+```text
+GATE-Preparation/
+│
+├── 01_Mathematics/
+├── 02_Aptitude/
+├── 03_Programming/
+├── 04_Data_Structures/
+├── 05_Algorithms/
+├── 06_Digital_Logic/
+├── 07_COA/
+├── 08_Operating_Systems/
+├── 09_DBMS/
+├── 10_Computer_Networks/
+├── 11_Theory_of_Computation/
+├── 12_Compiler_Design/
+├── PYQs/
+├── Mock_Tests/
+├── Daily_Progress/
+├── Resources/
+└── README.md
+```
+
+
+
