@@ -48,7 +48,6 @@ This repository documents my complete learning journey from the beginning of my 
 
 **Status:** 🚀 Preparation in Progress 
 
-GATE Preparation ಈಗಷ್ಟೇ ಆರಂಭಿಸುತ್ತಿದ್ದರೆ, ಈ resources ಸಾಕಷ್ಟು ಉತ್ತಮ. ವಿಶೇಷವಾಗಿ **MCA ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ** Computer Science (GATE CSE)ಗಾಗಿ ಇವು ಉಪಯುಕ್ತ.
 
 ## 📘 Official Resources
 
