@@ -268,4 +268,67 @@ This is useful for discovering **newer/active GATE repositories**.
 
 If you want, I can next give you **the best GitHub repositories specifically for GATE CSE PYQs, handwritten notes, mock tests, DSA, DBMS, OS, CN, TOC, COA, and Engineering Maths — 2–3 best repos for EACH subject.**
 
+Yes — continuing with **more GitHub resources for GATE CSE**:
+
+### 11️⃣ GATE CSE Previous Year Questions
+
+[GATE CSE PYQ repositories on GitHub](https://github.com/search?q=GATE+CSE+PYQ&type=repositories&utm_source=chatgpt.com)
+Best for finding repositories containing **year-wise and subject-wise PYQs**.
+
+### 12️⃣ GATE CSE Study Material
+
+[GitHub GATE CSE repositories](https://github.com/search?q=GATE+CSE+study+material&type=repositories&utm_source=chatgpt.com)
+Useful for **notes, PDFs, topic summaries and preparation material**.
+
+### 13️⃣ GATE CSE Algorithms
+
+[GitHub GATE Algorithms repositories](https://github.com/search?q=GATE+algorithms+CSE&type=repositories&utm_source=chatgpt.com)
+Useful for **DSA + algorithm practice**, which is one of the highest-value areas.
+
+### 14️⃣ GATE DBMS
+
+[GitHub GATE DBMS repositories](https://github.com/search?q=GATE+DBMS&type=repositories&utm_source=chatgpt.com)
+Useful for **SQL, normalization, transactions, indexing, relational algebra and PYQs**.
+
+### 15️⃣ GATE Operating Systems
+
+[GitHub GATE OS repositories](https://github.com/search?q=GATE+Operating+Systems+CSE&type=repositories&utm_source=chatgpt.com)
+Useful for **processes, scheduling, deadlocks, memory management, paging and file systems**.
+
+### 16️⃣ GATE Computer Networks
+
+[GitHub GATE CN repositories](https://github.com/search?q=GATE+Computer+Networks+CSE&type=repositories&utm_source=chatgpt.com)
+Useful for **TCP/IP, subnetting, routing, Ethernet, congestion control and numerical problems**.
+
+### 17️⃣ GATE Theory of Computation
+
+[GitHub GATE TOC repositories](https://github.com/search?q=GATE+TOC+CSE&type=repositories&utm_source=chatgpt.com)
+Useful for **DFA/NFA, regular languages, CFG, PDA, Turing machines and decidability**.
+
+### 18️⃣ GATE Computer Organization
+
+[GitHub GATE COA repositories](https://github.com/search?q=GATE+COA+CSE&type=repositories&utm_source=chatgpt.com)
+Useful for **pipelines, cache, memory, instruction sets and CPU organization**.
+
+### 19️⃣ GATE Discrete Mathematics
+
+[GitHub GATE Discrete Mathematics repositories](https://github.com/search?q=GATE+Discrete+Mathematics+CSE&type=repositories&utm_source=chatgpt.com)
+Useful for **logic, sets, relations, graphs, combinatorics and probability**.
+
+### 20️⃣ GATE Engineering Mathematics
+
+[GitHub GATE Engineering Mathematics repositories](https://github.com/search?q=GATE+Engineering+Mathematics&type=repositories&utm_source=chatgpt.com)
+Useful for **linear algebra, calculus, probability and numerical methods**.
+
+### 🔥 Most important for you
+
+Don't just keep collecting repositories. Your **core GitHub stack** should be:
+
+**GATEOverflow → PYQs**
+**NPTEL → Concepts**
+**Gate2027 → Notes**
+**GitHub subject repos → Extra practice**
+**Mock tests → Exam performance**
+
+If you want **“next”**, I can continue with **21–40**, including the best GitHub repositories for **GATE CSE + GATE DA (AI/Data Science)**.
 
