@@ -223,4 +223,49 @@ If you're targeting **GATE 2027**, I can also give you a **complete GitHub + NPT
 [4]: https://github.com/topics/gate-notes?utm_source=chatgpt.com "gate-notes · GitHub Topics · GitHub"
 [5]: https://github.com/Shreya-Shindee/gate-2026-prep-resources?utm_source=chatgpt.com "GitHub - Shreya-Shindee/gate-2026-prep-resources: Comprehensive GATE 2026 preparation resources for CS & DA with verified links · GitHub"
 [6]: https://www.reddit.com/r/GATEtard/comments/1qqxsfe/i_have_started_my_gatecse_preperation_from_this/?utm_source=chatgpt.com "I have started my gate(CSE) preperation from this month. And I am unable to understand from where to practice questions."
- 
+
+ Sure. Here are the **next best GitHub repositories/resources for GATE CSE**, after GATEOverflow:
+
+### 6️⃣ GATE CSE 2027
+
+[Gate2027 GitHub Repository](https://github.com/Aparnaraha/Gate2027?utm_source=chatgpt.com)
+Good for **subject-wise notes and preparation material**.
+
+### 7️⃣ GATE CSE Notes
+
+[GATE CSE Notes](https://github.com/Priyanshuu-2109/GATE-CSE-notes?utm_source=chatgpt.com)
+Useful for **quick revision**, especially when you don't want to watch full lectures again.
+
+### 8️⃣ GATE & CSE Resources
+
+[GATE and CSE Resources for Students](https://github.com/baquer/GATE-and-CSE-Resources-for-Students?utm_source=chatgpt.com)
+A good **resource collection** containing links to courses, papers, notes and practice material.
+
+### 9️⃣ GATE Preparation Resources
+
+[GATE 2026 Prep Resources](https://github.com/Shreya-Shindee/gate-2026-prep-resources?utm_source=chatgpt.com)
+Useful as a **central index** for GATE preparation resources.
+
+### 🔟 GitHub GATE repositories
+
+[GitHub GATE Notes Topic](https://github.com/topics/gate-notes?utm_source=chatgpt.com)
+This is useful for discovering **newer/active GATE repositories**.
+
+---
+
+## ⭐ My ranking for you
+
+| Rank | Resource                 | Best for                 |
+| ---- | ------------------------ | ------------------------ |
+| 🥇   | **GATEOverflow**         | PYQs + concepts          |
+| 🥈   | **Gate2027**             | Notes + syllabus         |
+| 🥉   | **GATE CSE Notes**       | Revision                 |
+| 4    | **GATE & CSE Resources** | Resource collection      |
+| 5    | **GATE Prep Resources**  | Finding courses/material |
+| 6    | **GitHub GATE Topics**   | Discovering repositories |
+
+**But don't collect everything.** For your preparation, I'd use **GATEOverflow + NPTEL + one notes repository + a good mock-test series**.
+
+If you want, I can next give you **the best GitHub repositories specifically for GATE CSE PYQs, handwritten notes, mock tests, DSA, DBMS, OS, CN, TOC, COA, and Engineering Maths — 2–3 best repos for EACH subject.**
+
+
