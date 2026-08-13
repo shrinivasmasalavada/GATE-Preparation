@@ -134,4 +134,19 @@ GATE-Preparation/
 ```
 
 
+| Subject                 | Main resource | Practice          |
+| ----------------------- | ------------- | ----------------- |
+| Programming + C         | NPTEL         | GATEOverflow PYQs |
+| Data Structures         | NPTEL         | GATEOverflow      |
+| Algorithms              | NPTEL         | GATEOverflow      |
+| Discrete Mathematics    | NPTEL         | GATEOverflow      |
+| Engineering Mathematics | NPTEL         | GATEOverflow      |
+| Digital Logic           | NPTEL         | PYQs              |
+| COA                     | NPTEL         | PYQs              |
+| Operating Systems       | NPTEL         | PYQs              |
+| DBMS                    | NPTEL         | PYQs              |
+| Computer Networks       | NPTEL         | PYQs              |
+| TOC                     | NPTEL         | PYQs              |
+| Compiler                | NPTEL         | PYQs              |
+| General Aptitude        | NPTEL + PYQs  | Mock tests        |
 
