@@ -407,5 +407,91 @@ For example:
 **GitHub → document everything professionally**
 
 That will make your profile much stronger than simply having 20 certificates.
-
+FREQUENTLY ASKED QUESTIONS (FAQs)
+Application Status
+Application process
+I have an old, blurred, or mismatched photo in my Aadhaar card/Digi locker? Will this cause any issue during the GATE 2027 application?
+No. The photo in your Aadhaar card/Digi locker will not be considered for the GATE 2027 application. Your live photo and the recent photo uploaded during the application process will be considered.
+I have a name mismatch in my Aadhaar card/DigiLocker. Will this cause any issues during verification or admission?
+Your name will be verified with DigiLocker while applying for GATE 2027 through the GOAPS portal.
+If there is any mistake in your name, you can correct it at Digilocker before applying GATE 2027. Otherwise, during the Correction Window it can be changed, as per the applicable rules.
+Admission based on the GATE score is not under the purview of the GATE 2027 Examination Committee. Admission is solely subject to the eligibility and selection criteria of the respective admitting institutes.
+Will my Address and Date of Birth (DOB) be fetched from DigiLocker/Aadhaar during GATE 2027 registration?
+Yes. Your Address and Date of Birth (DOB) details will be fetched from DigiLocker/Aadhaar during the GATE 2027 registration process.
+Do I need to upload my 10th, 12th, UG or PG marksheets in DigiLocker for GATE 2027 registration?
+No. You do not need to upload your 10th, 12th, UG or PG marksheets in DigiLocker for GATE 2027 registration. Academic documents are not required during the examination process.
+I am currently studying in 3 rd year B.A./B.Com./B.Sc. Am I eligible to appear for GATE-2027?
+YES, any undergraduate student currently in 3 rd year or higher years of any government approved program in Engineering/Technology/Architecture/Science/Commerce/Arts/Humanities is eligible to appear for GATE 2027.
+I am currently studying in 3 rd year B.E., but through parallel entry in the 2 nd year after finishing Diploma, am I eligible to appear for GATE 2027?
+YES, any undergraduate student currently in 3 rd year or higher years of any government approved program in Engineering/Technology/Architecture/Science/Commerce/Arts/Humanities is eligible to appear for GATE 2027.
+Is there any age limit to appear for GATE 2027?
+NO. There is NO age limit to appear for GATE 2027.
+Are there any restrictions on the number of times one can appear for GATE?
+NO. One can appear for the GATE examination any number of times.
+Can I appear in any of the GATE 2027 papers?
+Although the candidate is free to choose any of the papers (up to two from the given combinations), candidate should select paper appropriate to the discipline of qualifying degree.
+How do I apply ONLINE?
+Visit Application Portal link at the official website. It will become active once GATE 2027 registration opens.
+Can I use one email address to fill multiple application forms?
+NO. One email address can be used to submit only ONE application form.
+Do I need to fill two forms to appear in two papers?
+NO. The two papers option must be selected based on the given set of combinations in a SINGLE form only.
+Why should I choose SIX examination cities?
+The candidates will most likely be allotted a centre in the examination city of their first choice. Only in cases, where there are too many candidates opting for a certain city as their first choice, the other FIVE choices become relevant. The candidates are required to fill their choices of cities to appear in the examination, but should remember that because of operational constraints, the GATE committee reserves the right to add a new city or remove an existing one, and allot a city that may not be any of the options provided by the candidate.
+What do I do, if the power/internet connection failed during the submission of application process?
+Please login to your account at the Application Portal again and continue the application process.
+Does the OBC (non-creamy layer) or EWS candidate need to upload the category certificate?
+NO.
+Does the SC/ST/PwD candidate need to upload the category certificate?
+YES, category certificate is required to avail the concession in application fee.
+How do I make the fee payment for GATE 2027 examination?
+The payment option will appear after filling the online application form at GATE 2027 Application Portal. The candidate can opt for any of the listed payment options. The additional charges such as service charges, processing fees or bank charges, have to be borne by the candidate.
+How much fee should I pay to appear in Two papers of GATE 2027 examination?
+For Application Fee structure, please check: Application fees page.
+What is the fee for candidates with foreign nationality/NRIs?
+The fee for foreign nationals is the full Application Fee. See application fees page for more information.
+What is the fee for candidates with Indian nationality appearing at International centres?
+GATE 2027 will be conducted only in centres within India. It will not be conducted in centres outside India. Foreign nationals and Indian citizens residing abroad may appear for GATE 2027 by paying the full application fee, but they must choose examination cities within India. They must make their own arrangements for travel and accommodation to appear for the exam at an assigned centre within India. See application fees page for more information.
+What do I do, if power/Internet connection failed during an online payment?
+When you can get back online, login again to GATE 2027 Application Portal and check the status of the payment. If the payment was received by GATE, you can continue the process of printing the application form. If the payment was not received by GATE 2027, you may initiate a fresh payment. In case, any fee amount that has been debited (deducted) from your bank account, but you have not received any acknowledgement for fee payment from GATE 2027, then the money will be credited back to your account. However, this may take about fifteen working days.
+Money has been debited from my account more than once. How do I get the money back?
+Any extra payments received by GATE 2027 from your account for one application, will automatically be returned (credited) to the same bank account. However, this may take about fifteen working days.
+Do I have to send the print out of the application form?
+NO. The print out of the application form is not required to be sent to the Organizing Institute or any other GATE zonal offices.
+When and how will I know the status of my application?
+You can check the status of your application by logging into GATE 2027 Application Portal from time to time.
+After completing the ONLINE application process and generating a PDF file, will I be able to change my application data?
+NO. After completing all the steps up to PDF application form generation in the ONLINE application process, you can only download the application form and CANNOT modify the data. Hence, you need to be very careful while entering the data.
+I have missed to take a print out of my ONLINE application at the end of my application process. How will I get access to it?
+You can login using Enrolment ID and password and take a print out for your own reference.The print out must not be sent to GATE Organizing Institute or Zonal Office.
+If I have not uploaded photograph as per the specifications mentioned, will my application be rejected?
+Your application will be marked DEFECTIVE. You will be intimated by email, SMS, or phone call from your respective Zone to RECTIFY your DEFECT (by uploading a new photograph). You will be given chances for rectification up to a deadline, beyond which your application will either be considered as PROVISIONAL or REJECTED.
+If I have not uploaded signature as per the specifications mentioned, will my application be rejected?
+Your application will be marked DEFECTIVE. You will be intimated by email, SMS, or phone call from your respective Zone to RECTIFY your DEFECT (by uploading a new signature image). You will be given chances for rectification up to a deadline, beyond which your application will either be considered as PROVISIONAL or REJECTED.
+Which Identity Document (ID) will be accepted in the application form?
+For Indian candidates, the following valid photo identification documents/cards will be accepted: Aadhaar-UID (preferable), Passport, PAN Card, Voter ID, and Driving License. For foreign nationals, documents like valid Passport, any other valid photo ID issued by their government, Driving License is acceptable.
+Is there a relaxation in qualifying mark and fee for the EWS (Economically weaker section) candidates?
+The application fee for EWS candidates will be same as that of General candidates, however, the qualifying mark is 90% as that of the General candidates.
+What will happen if I am not able to produce EWS certificate at the time of admission/counselling etc.?
+GATE has nothing to do with subsequent admission or recruitment process.
+Do I have to upload my EWS certificate during the application process?
+NO
+I want to take TWO papers from the two papers combination. However, while filling online form I have added only one paper and made the payment. Can I add the second paper to the same enrolment ID?
+Yes, you can add second paper from the allowed two paper combinations after payment.
+I want to take TWO papers from the two papers combination. However, while filling online form I have added only one paper and made the payment. Can I create a new enrolment ID for TWO papers?
+NO, you should not create another enrolment ID. Instead follow FAQ No. 29.
+My photograph and Photo ID are exchanged in the application while registering online. Will my application be REJECTED?
+Your application will be marked DEFECTIVE. You will be intimated by email, SMS or phone call from your respective Zone to RECTIFY your DEFECT (by uploading the correct images). You will be given chances for rectification up to a deadline, beyond which your application will either be considered as PROVISIONAL or REJECTED.
+What part of the photo ID should be uploaded?
+The part of the photo ID with your photo and your details like name, date of birth (DOB), and ID number should be uploaded. If the details are spread over two pages (that is, backside of the Photo ID) then both (front and backside) pages in a single PDF must be uploaded.
+I want to withdraw my application. Will my application fee be refunded?
+NO.
+I have uploaded Aadhar Card as my photo ID but entered the PAN Card number in place of ID Number (or vice-a-versa). Will my application be REJECTED?
+Your application will be marked DEFECTIVE. You will be intimated by e-mail, SMS or phone call from your respective Zone to RECTIFY your DEFECT by either uploading the correct image of the photo ID or making the correction in ID Number field. You will be given chances for rectification up to a deadline, beyond which your application will either be considered as PROVISIONAL or REJECTED.
+I have chosen a wrong paper. Can I make correction to the application form to the paper?
+Immediately after completion of the application form you will not be able to make any changes to it. However, you can change the paper in a given time duration at later stage by paying additional fee per change in your application. See important dates for GATE 2027.
+There is a spelling mistake in my name and my application has been marked as DEFECTIVE. Can I make corrections in my name spelling?
+Immediately after completion of the application form you will not be able to make any changes to it. However, you can make corrections in a given time duration at later stage by furnishing supporting documents.
+I want to use my new name taken after the marriage. I have photo ID with older name. Will my application be REJECTED?
+You can upload the photo ID with old name along with an affidavit. Otherwise, your application will either be considered as PROVISIONAL or REJECTED. Also, you SHOULD carry affidavit along with the photo ID in the examination hall.
 
