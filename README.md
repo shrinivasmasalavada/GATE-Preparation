@@ -16,13 +16,13 @@ This repository documents my complete learning journey from the beginning of my 
 
 ## 📚 Repository Structure
 
-📂 Notes  
-📂 Daily Study Log  
-📂 PYQs  
-📂 Programming Practice  
-📂 Mock Tests  
-📂 Revision Notes  
-📂 Resources
+ Notes  
+ Daily Study Log  
+ PYQs  
+ Programming Practice  
+ Mock Tests  
+Revision Notes  
+ Resources
 
 ## Subjects
 - Engineering Mathematics
